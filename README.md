@@ -1,3 +1,5 @@
 ### First try
 * member
-** server / git...medium / local
+- server / git...medium / local
+
+### Second try
